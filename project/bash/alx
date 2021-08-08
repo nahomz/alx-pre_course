@@ -1,0 +1,1 @@
+#!/bin/bash and echo "ALX"
